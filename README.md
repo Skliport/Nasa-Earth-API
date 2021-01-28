@@ -16,7 +16,7 @@ Assuming you have installed node.js you have to do this steps:
 
 You should see this page:
 
-![alt text](https://ibb.co/9VVh1Mr)
+![](img/page)
 
 then in the tex field input, you should put the coordinates you what
 in this order (longitude,latitude)
@@ -24,4 +24,4 @@ for example: `-95.33,29.78`
 
 then a popup will come out and you just have to wait until the image appears
 
-![alt text](https://ibb.co/KrjdGQF)
+![](img/map)
