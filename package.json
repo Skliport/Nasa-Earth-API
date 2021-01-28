@@ -1,0 +1,25 @@
+{
+  "name": "nasaearth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app,js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Skliport/nasahomework.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "rene calderon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skliport/nasahomework/issues"
+  },
+  "homepage": "https://github.com/Skliport/nasahomework#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
