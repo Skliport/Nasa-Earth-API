@@ -11,7 +11,7 @@ function sendfetch() {
  
 
   fetch(
-    `${earthApi}?lon=${lon}&lat=${lat}&date=2018-01-01&dim=0.10&api_key=${apiKey}`
+    `${earthApi}?lon=${lat}&lat=${lon}&date=2018-01-01&dim=0.10&api_key=${apiKey}`
   )
     .then((response) => response.json())
     .then((data) => {
