@@ -20,7 +20,7 @@ You should see this page:
 
 then in the tex field input, you should put the coordinates you what
 in this order (longitude,latitude)
-for example: `-95.33,29.78`
+for example: `29.78,-95.33`
 
 then a popup will come out and you just have to wait until the image appears
 
