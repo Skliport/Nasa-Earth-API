@@ -1,4 +1,4 @@
-# nasahomework
+# NASA EARTH API
 
 ## To run this project:
 
@@ -25,3 +25,5 @@ for example: `29.78,-95.33`
 then a popup will come out and you just have to wait until the image appears
 
 ![](img/map.png)
+
+To browse all NASA API's go to `https://api.nasa.gov/`
